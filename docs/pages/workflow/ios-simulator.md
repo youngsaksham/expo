@@ -1,5 +1,5 @@
 ---
-title: iOS Simulator
+title: iOS Simulator by -:Saksham Agrawal
 ---
 
 import ImageSpotlight from '~/components/plugins/ImageSpotlight'
